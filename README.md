@@ -1,1 +1,1 @@
-This is the description of my repo
+## Objective: Pratice Git branching and merging
